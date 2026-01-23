@@ -1,0 +1,6 @@
+[submodule "qhash/artifacts/internal"]
+	path = qhash/artifacts/internal
+	url = git@github.com:lexatic/internal-bridge.git
+[submodule "qhash/clients/protos/artifacts"]
+	path = qhash/clients/protos/artifacts
+	url = git@github.com:lexatic/internal-bridge.git
